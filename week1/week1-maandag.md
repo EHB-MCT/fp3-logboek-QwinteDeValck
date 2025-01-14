@@ -8,39 +8,39 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+## notities leerling
+
+*gewerkte punten leerlingen maandag:*
+- groep gemaakt
+- bedrijf gekozen
+- werkpunten besproken met groep wat beter kan aan de website van groot eiland
+- vragen bedacht voor dinsdag aan klant te vragen tijdens rondleiding
+
+**activiteiten maandag:**
+> - op wihteboard punten opgeschreven waar we aan moeten werken voor ons project realiteit te maken
+> - samen met [wout,stijn,ephram,sam,ramon] vragen voor de klant opgeschreven op papier en in de groeps chat
+> - samen met [wout,stijn,ephram,sam,ramon] opgeschreven voor wie,hoe en waarom het nodig is om de site te verbeteren en hoe het nu is op dit moment
 
 
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
-
----
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 *Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
-
+- groep gemaakt
+- bespreking van bedrijfs problemen
 
 > **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> -  het betere communiseren met een groep mensen en items overleggen met notities te nemen zodat die overzichtelijk zijn
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 *Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+- nerveus voor een groep te maken en met een goede groep te eindigen voor dit project
 
 
 > **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
+> - **"nerveus"** :nervues:  
 
 ---
 
