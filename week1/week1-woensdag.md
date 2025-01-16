@@ -1,8 +1,8 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[15/01/2025]`  
+**Studentnaam:** `[Qwinte De Valck]`  
+**Groepsnaam:** `[De Badeentjes]`
 
 ---
 
@@ -44,6 +44,7 @@
 
 
 > **Algmeeen gevoel:**  
+> - **gefrustreed** 😔🥶
 > - **gefrustreed** 😔🥶
 
 ---
