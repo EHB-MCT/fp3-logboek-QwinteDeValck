@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[17/01/2025]`  
+**Datum:** `[24/01/2025]`  
 **Studentnaam:** `[Qwinte De Valck]`  
 **Groepsnaam:** `[De Badeentjes]`
 
@@ -12,10 +12,10 @@
 
 _gewerkte punten leerling Vrijdag:_
 
-- presentatie aan klant
-- feedback op geschreven van klant
-- feedback gekregen van de docenten
-- websites onderzocht voor inspiratie
+- 
+- 
+- 
+- 
 
 **activiteiten Vrijdag:**
 
@@ -26,7 +26,7 @@ _gewerkte punten leerling Vrijdag:_
 
 _geleerd:_
 
-- niks speciaals
+- 
 
 > **Nieuwe skills:**
 >
@@ -38,12 +38,11 @@ _geleerd:_
 
 _Instructie:_
 
-- ik kwam met veel moed naar school denkende dat het wel redelijk goed zou verlopen, na we onze punten hebben gezien van sprint 1 was er een klein depressief moment omdat we dachten dat alles wel goed was verlopen doorheen de week
+- 
 
 > **Algmeeen gevoel:**
 >
-> - **blij** 🙂
-> - **onzeker** 😵‍💫
+> 
 
 ---
 
